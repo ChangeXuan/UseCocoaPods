@@ -21,3 +21,5 @@ end
 - 然后在终端内输入 pod install
 
 ## 直接使用import xxx 就可以导入了
+
+## 更新库的版本时使用pod update
